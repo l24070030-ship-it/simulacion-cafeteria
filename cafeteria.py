@@ -61,7 +61,8 @@ env.run()
 # -------------------------------
 # RESULTADO
 # -------------------------------
-
+#DE LA CRUZ OJEDA AARON
+#GONZALEZ POOL JARED ARTURO
 promedio = sum(esperas) / len(esperas)
 
 print("\n=== RESULTADOS ===")
