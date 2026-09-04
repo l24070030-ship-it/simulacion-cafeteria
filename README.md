@@ -2,7 +2,11 @@
 Simulación de una cafetería escolar usando Python y SimPy
 # Simulación de una Cafetería Escolar
 #DE LA CRUZ OJEDA AARON
+
+
 #GONZALEZ POOL JARED ARTURO
+
+
 #5to b sistemas 
 
 ## Descripción
