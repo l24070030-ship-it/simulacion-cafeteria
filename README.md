@@ -1,7 +1,8 @@
 # simulacion-cafeteria
 Simulación de una cafetería escolar usando Python y SimPy
 # Simulación de una Cafetería Escolar
-
+#DE LA CRUZ OJEDA AARON
+#GONZALEZ POOL JARED ARTURO
 ## Descripción
 
 Este programa realiza una **simulación de una cafetería escolar** utilizando la biblioteca **SimPy de Python**.
