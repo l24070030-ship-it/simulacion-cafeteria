@@ -61,10 +61,11 @@ env.run()
 # -------------------------------
 # RESULTADO
 # -------------------------------
-#DE LA CRUZ OJEDA AARON
-#GONZALEZ POOL JARED ARTURO
+
 promedio = sum(esperas) / len(esperas)
 
 print("\n=== RESULTADOS ===")
 print("Estudiantes atendidos:", estudiantes)
 print(f"Tiempo promedio de espera: {promedio:.2f} minutos")
+#DE LA CRUZ OJEDA AARON
+#GONZALEZ POOL JARED ARTURO
